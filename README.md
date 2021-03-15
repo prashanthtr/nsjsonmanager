@@ -1,1 +1,1 @@
-# Write audio data to sonyGanFormat
+# Write audio data to nsjson format for training Gansynth and Nsynth
